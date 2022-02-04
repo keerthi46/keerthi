@@ -1,8 +1,8 @@
 live invite https://keerthi46.github.io/keerthi/
 
 - 👋 Hi, I’m keerthi
-  📫 I live in Tumkur
-  👀 I’m interested in developing
+- 📫 I live in Tumkur
+- 👀 I’m interested in developing
 - 🌱 I’m currently learning coding
 
 <!---
